@@ -1,0 +1,44 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="0CF1EE9C-5DD6-4EBF-8BC7-33F4CACE0904" platform="MtWeb" defaultW="1190" defaultH="2300" measureW="1190" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="5">
+    <control controlID="61FD2E1B-223F-4435-9563-D603DF7B5EF6" controlTypeID="Image" x="0" y="0" w="1190" h="50" zOrder="0">
+      <URL>35CA1CC1026F6EB5A937F8673FF5E4BC.png</URL>
+    </control>
+    <control controlID="3F82FCBB-EF75-4012-A5CF-25152D80BC3D" controlTypeID="Tab" x="0" y="70" w="1180" h="875" zOrder="1">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="6A87188A-546F-47F5-9A4B-21F075027D10" linkType="ltPageLink" isApplyIncludePage="False" title="Service+Requests">
+          <area shape="0" alt="" ID="{7867EDFB-2613-4B38-9D2C-B89209B47D11}" coords="(0,0,125,18)"/>
+        </link>
+        <link targetPageID="0CF1EE9C-5DD6-4EBF-8BC7-33F4CACE0904" linkType="ltPageLink" isApplyIncludePage="False" title="+SR0000232135">
+          <area shape="0" alt="" ID="{290E7E6E-9508-492E-9A30-1DE8EB265FAD}" coords="(124,0,241,18)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Service+Requests%2C+SR0000232135</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>1</selectedIndex>
+    </control>
+    <control controlID="29D8DC12-2E49-45B3-8BB9-BBD9C09A021A" controlTypeID="Tab" x="8" y="100" w="1162" h="832" zOrder="2">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Srevice+Request+Details</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="B9967F4D-D536-4016-ACFC-B8EDF83E3280" controlTypeID="Image" x="8" y="129" w="1151" h="798" zOrder="3">
+      <URL>7E545685CAC49B6718295907F7B6DCF5.png</URL>
+    </control>
+    <control controlID="84E1389D-A272-41F4-A877-0A1920795FB0" controlTypeID="HotSpot" x="347" y="451" w="99" h="41" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="4B3142D3-60B4-4F7E-9D46-A66EC5463AF2" linkType="ltPageLink" isApplyIncludePage="False" title="Contact+Overview+%5BAs+SR+nested+tab%5D">
+          <area shape="0" alt="" ID="{AC3F4542-5659-49BB-A40A-E0CC3FAE3815}" coords="(0,0,99,41)"/>
+        </link>
+      </links>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

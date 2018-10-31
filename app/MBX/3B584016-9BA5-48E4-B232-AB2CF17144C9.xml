@@ -1,0 +1,47 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="09C3BD7B-E70D-4CCF-BCBB-06F2E92F42BB" platform="MtWeb" defaultW="1920" defaultH="2300" measureW="1920" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="5">
+    <control controlID="DBF662E2-C843-4071-A43D-1E2617DA7322" controlTypeID="Tab" x="10" y="69" w="1826" h="893" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="3B584016-9BA5-48E4-B232-AB2CF17144C9" linkType="ltPageLink" isApplyIncludePage="False" title="Service+Requests">
+          <area shape="0" alt="" ID="{AA9F6329-D918-4126-BC72-79F6C95FA355}" coords="(0,0,125,18)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Service+Requests</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="D769403F-C1E1-4B3A-8EEF-BFF68F3F0FC4" controlTypeID="Image" x="0" y="0" w="1836" h="69" zOrder="1">
+      <URL>6D66878DCC28A6FBE7D5448D473840EF.png</URL>
+    </control>
+    <control controlID="F94A3EBD-A5F8-4CED-9B22-64813E2642FD" controlTypeID="Image" x="20" y="105" w="1765" h="847" zOrder="2">
+      <URL>830C9EE41D7B561857C9509F65D48BFB.png</URL>
+    </control>
+    <control controlID="EAC4C538-F51A-41B1-9413-20D4118D451C" controlTypeID="HotSpot" x="201" y="277" w="126" h="44" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="SR+Details">
+          <area shape="0" alt="" ID="{542A399A-0985-4A35-BA66-DACFEDC42B06}" coords="(0,0,126,44)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="F111C0CC-66DC-449F-ABE3-47BC4752125A" controlTypeID="Link" x="1677" y="1021" w="37" h="17" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="41E9A128-A241-4557-BB8F-26C905BC8E96" linkType="ltPageLink" isApplyIncludePage="False" title="Flows">
+          <area shape="0" alt="" ID="{6BAC4B72-D6A6-41DA-B8A6-3E0C9DBC5C20}" coords="(0,0,37,17)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Home</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

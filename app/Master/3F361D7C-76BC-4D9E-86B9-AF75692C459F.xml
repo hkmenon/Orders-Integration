@@ -1,0 +1,58 @@
+<master version="5.3" minAllowVersion="5.3" ID="3F361D7C-76BC-4D9E-86B9-AF75692C459F">
+  <controls>
+    <control controlID="FE87DA35-0844-4FE0-BCF0-E20ADCEB5229" controlTypeID="Master" x="32" y="172" w="1138" h="833" zOrder="2" masterID="3F361D7C-76BC-4D9E-86B9-AF75692C459F">
+      <groupChildrenDescriptors>
+        <control controlID="03F51339-36AE-44EE-A660-8135EC079C28" controlTypeID="VerticalTabBar" x="0" y="0" w="1138" h="833" zOrder="0">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Overview">
+              <area shape="0" alt="" ID="{079D9EAF-E30A-4D62-8E29-8252E849019D}" coords="(0,0,136,35)"/>
+            </link>
+            <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Profile">
+              <area shape="0" alt="" ID="{4D594A78-7EBB-4EFF-B816-F7561A8DFA87}" coords="(0,34,136,69)"/>
+            </link>
+            <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Team">
+              <area shape="0" alt="" ID="{50407E1B-D151-4284-BC35-10F2478B2F02}" coords="(0,68,136,103)"/>
+            </link>
+            <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Assets">
+              <area shape="0" alt="" ID="{B2DF4E43-FBD1-424D-896B-D17ED074986F}" coords="(0,102,136,137)"/>
+            </link>
+            <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Opportunities">
+              <area shape="0" alt="" ID="{D18D1F2B-2EF3-423A-9977-3E16B79DBD46}" coords="(0,136,136,171)"/>
+            </link>
+            <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Leads">
+              <area shape="0" alt="" ID="{2EB2E7B5-AA16-4529-B4A8-F46FF5B60853}" coords="(0,170,136,205)"/>
+            </link>
+            <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Relationships">
+              <area shape="0" alt="" ID="{828D7154-1835-444A-AD1C-65DB05B8ED4C}" coords="(0,204,136,239)"/>
+            </link>
+            <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Recommendations">
+              <area shape="0" alt="" ID="{4D38091B-18EF-43FD-BC7C-4582C2D4ADBE}" coords="(0,238,136,273)"/>
+            </link>
+            <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Service+Requests">
+              <area shape="0" alt="" ID="{09F2C757-5A57-43D9-ADEC-D6EF47849E65}" coords="(0,272,136,307)"/>
+            </link>
+            <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Notes">
+              <area shape="0" alt="" ID="{EA8AE593-32B9-4BDD-BE36-377A43E8FF82}" coords="(0,306,136,341)"/>
+            </link>
+            <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Activities">
+              <area shape="0" alt="" ID="{14971544-3D8D-474B-AC32-AC0288387BFE}" coords="(0,340,136,375)"/>
+            </link>
+            <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Interaction+History">
+              <area shape="0" alt="" ID="{F9007FB6-5402-4606-A0AF-22EE700D99E6}" coords="(0,374,136,409)"/>
+            </link>
+            <link targetPageID="C123D9AF-5A0C-43C3-A6CD-FB5858F56956" linkType="ltPageLink" isApplyIncludePage="False" title="+Orders">
+              <area shape="0" alt="" ID="{B4217E61-FDEC-4AD0-AEA0-9CF02CC68208}" coords="(0,408,136,443)"/>
+            </link>
+          </links>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Overview%2C+Profile%2C+Team%2C+Assets%2C+Opportunities%2C+Leads%2C+Relationships%2C+Recommendations%2C+Service+Requests%2C+Notes%2C+Activities%2C+Interaction+History%2C+Orders</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <tabHeight>35</tabHeight>
+          <tabColor>4294111986</tabColor>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</master>

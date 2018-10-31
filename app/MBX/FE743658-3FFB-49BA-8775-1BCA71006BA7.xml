@@ -1,0 +1,104 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="FE743658-3FFB-49BA-8775-1BCA71006BA7" platform="MtWeb" defaultW="1190" defaultH="2300" measureW="1190" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="16">
+    <control controlID="EE8B47FA-67FD-4333-A343-CE6654C6192F" controlTypeID="Tab" x="8" y="59" w="1163" h="1247" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="CE736454-07A6-4CE3-803B-4390F59DAE30" linkType="ltPageLink" isApplyIncludePage="False" title="Contacts">
+          <area shape="0" alt="" ID="{0196451C-33D1-41AE-B644-1571B51EFDC8}" coords="(0,0,71,18)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+John+Doe">
+          <area shape="0" alt="" ID="{931232A1-AFBA-4A1C-9251-62BC946938AB}" coords="(70,0,149,18)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Contacts%2C+John+Doe</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>1</selectedIndex>
+    </control>
+    <control controlID="9D2B48FC-008A-433B-8423-80BB66DF8FA3" controlTypeID="Image" x="0" y="0" w="1190" h="50" zOrder="1">
+      <URL>35CA1CC1026F6EB5A937F8673FF5E4BC.png</URL>
+    </control>
+    <control controlID="FFB5E101-E582-490C-BF5A-452A07167363" controlTypeID="__group__" x="18" y="86" w="1148" h="1199" zOrder="2">
+      <groupChildrenDescriptors>
+        <control controlID="563E8907-BAEB-4FCD-8C5F-76B07136AA3B" controlTypeID="__group__" x="0" y="0" w="1148" h="1199" zOrder="0">
+          <groupChildrenDescriptors>
+            <control controlID="53D3A207-B29C-4393-A662-4FB707790C86" controlTypeID="Tab" x="0" y="0" w="1148" h="1199" zOrder="0">
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Contact+Details%2C+Order%3A+o10007</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>1</selectedIndex>
+            </control>
+            <control controlID="53CD9019-E53E-4850-8521-897211EE3A76" controlTypeID="ButtonBar" x="827" y="45" w="311" h="29" zOrder="1">
+              <color>4291611852</color>
+              <borderColor>4288256409</borderColor>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Save%2CSave+%26+Close%2CCancel</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+              <selectedColor>4294967295</selectedColor>
+            </control>
+            <control controlID="50278E2F-9B61-4EF6-BB30-5F1EEC5F7634" controlTypeID="__group__" x="723" y="45" w="86" h="29" zOrder="2">
+              <groupChildrenDescriptors>
+                <control controlID="E2F5E35A-74C8-473A-8F08-8E59086FF0B3" controlTypeID="ButtonBar" x="0" y="0" w="86" h="29" zOrder="0">
+                  <color>4291611852</color>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Actions</text>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedColor>4294967295</selectedColor>
+                </control>
+                <control controlID="12E41EE6-EC6D-4B9E-BDF2-4DB1B1C96575" controlTypeID="Image" x="67" y="11" w="9" h="8" zOrder="1">
+                  <URL>493BC4B533238F3EDF06B73175E0D4BA.png</URL>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="4799C8CF-DD62-4CDC-A888-45526D74D6E6" controlTypeID="Label" x="5" y="87" w="262" h="24" zOrder="1">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Edit+Contact%3A+John+Doe%3A+Overview</text>
+          <textSize>18</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="4CC2F00C-D4A4-4082-93C6-A964717A50AF" controlTypeID="HotSpot" x="1601" y="2023" w="172" h="37" zOrder="3"/>
+    <control controlID="4FE88F70-BEB7-455F-B0B7-D331D6BD898C" controlTypeID="LinkBar" x="172" y="32" w="540" h="17" zOrder="4">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Order+details+page+comments%2C+New+Note+Comments%2C+Page+navigation+link+comments</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="A5535C4F-EE6C-4812-B6F6-737C6A35261E" controlTypeID="Panel" x="145" y="306" w="175" h="24" zOrder="5">
+      <color>4288256409</color>
+      <opacity>0.400000005960464</opacity>
+      <groupChildrenDescriptors>
+        <control controlID="94468D10-7855-4B65-8A76-47D1DD87710E" controlTypeID="Border" x="0" y="0" w="175" h="24" zOrder="0">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="75DCFF6A-262F-4C6D-9814-4BC7573291A7" controlTypeID="Image" x="25" y="112" w="1136" h="1007" zOrder="6">
+      <URL>EAA9A7DB908A8DF7AE398A463BD6B867.png</URL>
+    </control>
+    <control controlID="A68495B3-FF73-442F-9D0E-6AFD6B392610" controlTypeID="HotSpot" x="433" y="616" w="54" h="49" zOrder="7">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="E6C98973-8F15-47EE-9ADC-647CCD3EA3F5" linkType="ltPageLink" isApplyIncludePage="False" title="Edit+Shipping+Addresses">
+          <area shape="0" alt="" ID="{BCCBF894-61CD-4FE7-9346-2E34B7BFE9DB}" coords="(0,0,54,49)"/>
+        </link>
+      </links>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,259 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="0237E3FC-5E38-496B-97DF-E8CE52B0448B" platform="MtWeb" defaultW="1190" defaultH="2300" measureW="1190" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="27">
+    <control controlID="EE8B47FA-67FD-4333-A343-CE6654C6192F" controlTypeID="Tab" x="8" y="59" w="1163" h="2100" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="CE736454-07A6-4CE3-803B-4390F59DAE30" linkType="ltPageLink" isApplyIncludePage="False" title="Contacts">
+          <area shape="0" alt="" ID="{0196451C-33D1-41AE-B644-1571B51EFDC8}" coords="(0,0,71,18)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Kim+Anderson">
+          <area shape="0" alt="" ID="{931232A1-AFBA-4A1C-9251-62BC946938AB}" coords="(70,0,176,18)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Contacts%2C+Kim+Anderson</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>1</selectedIndex>
+    </control>
+    <control controlID="9D2B48FC-008A-433B-8423-80BB66DF8FA3" controlTypeID="Image" x="0" y="0" w="1176" h="50" zOrder="1">
+      <URL>35CA1CC1026F6EB5A937F8673FF5E4BC.png</URL>
+    </control>
+    <control controlID="FFB5E101-E582-490C-BF5A-452A07167363" controlTypeID="__group__" x="20" y="87" w="1148" h="2063" zOrder="2">
+      <groupChildrenDescriptors>
+        <control controlID="563E8907-BAEB-4FCD-8C5F-76B07136AA3B" controlTypeID="__group__" x="0" y="0" w="1148" h="2063" zOrder="0">
+          <groupChildrenDescriptors>
+            <control controlID="53D3A207-B29C-4393-A662-4FB707790C86" controlTypeID="Tab" x="0" y="0" w="1148" h="2063" zOrder="0">
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="33A2E922-FD72-476A-89D1-78EEC0033C4A" linkType="ltPageLink" isApplyIncludePage="False" title="Contact+Details">
+                  <area shape="0" alt="" ID="{1DDF205C-9916-4F8D-A76E-44A424AE1DD6}" coords="(0,0,110,18)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Order%3A+o10007">
+                  <area shape="0" alt="" ID="{2FA7B2F2-F97D-41A4-ACD8-445C2721BBB7}" coords="(109,0,219,18)"/>
+                </link>
+              </links>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Contact+Details%2C+Order%3A+o10007</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>1</selectedIndex>
+            </control>
+            <control controlID="53CD9019-E53E-4850-8521-897211EE3A76" controlTypeID="ButtonBar" x="827" y="77" w="311" h="49" zOrder="1">
+              <color>4291611852</color>
+              <borderColor>4288256409</borderColor>
+              <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Save%2CSave+%26+Close%2CCancel</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+              <selectedColor>4294967295</selectedColor>
+            </control>
+            <control controlID="50278E2F-9B61-4EF6-BB30-5F1EEC5F7634" controlTypeID="__group__" x="723" y="77" w="86" h="49" zOrder="2">
+              <groupChildrenDescriptors>
+                <control controlID="E2F5E35A-74C8-473A-8F08-8E59086FF0B3" controlTypeID="ButtonBar" x="0" y="0" w="86" h="49" zOrder="0">
+                  <color>4291611852</color>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Actions</text>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedColor>4294967295</selectedColor>
+                </control>
+                <control controlID="12E41EE6-EC6D-4B9E-BDF2-4DB1B1C96575" controlTypeID="Image" x="67" y="18" w="9" h="13" zOrder="1">
+                  <URL>493BC4B533238F3EDF06B73175E0D4BA.png</URL>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="4799C8CF-DD62-4CDC-A888-45526D74D6E6" controlTypeID="Label" x="3" y="87" w="262" h="24" zOrder="1">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Edit+Contact%3A+John+Doe%3A+Overview</text>
+          <textSize>18</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="4FE88F70-BEB7-455F-B0B7-D331D6BD898C" controlTypeID="LinkBar" x="172" y="32" w="540" h="17" zOrder="3">
+      <interactiveData>
+        <entry title="Order+details+page+comments">
+          <area shape="0" alt="" ID="{9C2FD310-BB06-436F-B1A4-E7831737C353}" coords="(0,0,183,17)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="BA69429B-8FC1-4DE4-B5B2-04719DE50487" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Change Visibility" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="1" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                    <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+        <entry title="+New+Note+Comments">
+          <area shape="0" alt="" ID="{A3233656-01FF-4003-B6FC-36CDFCF4A99E}" coords="(195,0,331,17)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="E35444F2-1183-4E5B-9A26-E45CBFA6915E" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Change Visibility" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="1" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                    <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+        <entry title="+Page+navigation+link+comments">
+          <area shape="0" alt="" ID="{78044078-4534-4C72-82C1-AD80DE5D6918}" coords="(343,0,540,17)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="D7B0EC8B-0B24-40FC-A621-BA81FC9A8A8B" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Change Visibility" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="1" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                    <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Order+details+page+comments%2C+New+Note+Comments%2C+Page+navigation+link+comments</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="ED144D53-1A4C-41DD-B0DC-F103843B6061" controlTypeID="__group__" x="23" y="114" w="1133" h="1980" zOrder="4">
+      <groupChildrenDescriptors>
+        <control controlID="D0029EED-8D21-464E-97FE-D153D244A3D3" controlTypeID="Image" x="3" y="0" w="1129" h="1028" zOrder="0">
+          <URL>B2D716DC1F178DFAB633F75E97CF2EB9.png</URL>
+        </control>
+        <control controlID="629170B9-0873-450B-9AD0-5DF19DF488C3" controlTypeID="Image" x="0" y="958" w="1129" h="784" zOrder="1">
+          <URL>C754A02BA1EA154BC72817E9745641B6.png</URL>
+        </control>
+        <control controlID="55A1BBF1-3B53-464E-824B-97832E634B57" controlTypeID="Image" x="4" y="1736" w="1129" h="244" zOrder="2">
+          <URL>A6DC461C4FABB4DFC73E599136FE7875.png</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="4CC2F00C-D4A4-4082-93C6-A964717A50AF" controlTypeID="HotSpot" x="1020" y="2019" w="124" h="37" zOrder="5">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="294D799E-E74A-46A1-842E-17D88591A0FB" linkType="ltPageLink" isApplyIncludePage="False" title="Order+Details+%5BNT+of+Contact%5D+-+Add+Note">
+          <area shape="0" alt="" ID="{A9D1C183-ABFA-49B3-B78D-F06739203A0A}" coords="(0,0,124,37)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="7505AA1C-BE39-4B92-850B-2EEE3D9F9D53" controlTypeID="Panel" x="975" y="164" w="166" h="45" zOrder="6">
+      <color>4288256409</color>
+      <opacity>0.800000011920929</opacity>
+      <groupChildrenDescriptors>
+        <control controlID="6E0ECCD4-E943-49DF-8797-FDD014D23B38" controlTypeID="Border" x="0" y="0" w="166" h="45" zOrder="0">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="BA69429B-8FC1-4DE4-B5B2-04719DE50487" controlTypeID="StickyNote" x="186" y="540" w="628" h="288" zOrder="7">
+      <caption>Order+Page+Comments</caption>
+      <color>4294967244</color>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>-+In+this+flow+the+OCC+order+details+component+is+displayed+as+a+nested+tab+of+the+contact+%0D%0A-+Agent+wil+be+able+to+take+actions+on+the+page%0D%0A+++*+E.g.+Refresh+Order+should+refresh+the+order+status+as+expected.%0D%0A+++*+Details+of+the+actions+are+in+separate+flow%0D%0A-+The+in+page+navigation+links+at+the+top+of+the+page+should+navigate+the+user+to+the+appropriate+section.</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D7B0EC8B-0B24-40FC-A621-BA81FC9A8A8B" controlTypeID="__group__" x="586" y="86" w="399" h="156" zOrder="8">
+      <caption>Page+navigation+comments</caption>
+      <isCommentCom>True</isCommentCom>
+      <groupChildrenDescriptors>
+        <control controlID="D69BC9B1-29C7-48A3-85C0-39162FF9C181" controlTypeID="StickyNote" x="0" y="0" w="286" h="156" zOrder="0">
+          <color>4294967244</color>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>The+Page+navigation+button+should+not+be+displayed+when+the+order+details+is+embedded+in+OEC%0D%0A</text>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="7A7C5E2E-EF86-430A-9F67-D45B06FD8372" controlTypeID="Arrow" x="282" y="83" w="117" h="35" zOrder="1">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <controlPoint>(40,43)</controlPoint>
+          <startPoint>(0,0)</startPoint>
+          <endPoint>(111,29)</endPoint>
+          <showEndArrow>1</showEndArrow>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="E35444F2-1183-4E5B-9A26-E45CBFA6915E" controlTypeID="__group__" x="732" y="1684" w="325" h="335" zOrder="9">
+      <caption>New+Note+Comments</caption>
+      <isCommentCom>True</isCommentCom>
+      <groupChildrenDescriptors>
+        <control controlID="5CB4A9DD-4C2F-46EA-9527-6455A5862C46" controlTypeID="StickyNote" x="0" y="0" w="269" h="123" zOrder="0">
+          <color>4294967244</color>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>-+The+actions+on+the+page+should+work+as+expected.%0D%0A-+E.g.+I+should+be+able+to+add+a+note+to+the+order</text>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="A113F566-8E8B-49A9-88A0-4D23201814A5" controlTypeID="Arrow" x="137" y="119" w="188" h="216" zOrder="1">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <controlPoint>(61,94)</controlPoint>
+          <startPoint>(0,0)</startPoint>
+          <endPoint>(182,210)</endPoint>
+          <showEndArrow>1</showEndArrow>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="9633B336-4382-4D48-8CBF-F8331ED13476" controlTypeID="Panel" x="150" y="303" w="115" h="23" zOrder="10">
+      <color>4288256409</color>
+      <opacity>0.300000011920929</opacity>
+      <groupChildrenDescriptors>
+        <control controlID="5C9F11DC-4C86-4394-83EB-E0F46CC8FD6E" controlTypeID="Border" x="0" y="0" w="115" h="23" zOrder="0">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

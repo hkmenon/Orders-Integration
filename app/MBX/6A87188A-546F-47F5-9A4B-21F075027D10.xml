@@ -1,0 +1,37 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="6A87188A-546F-47F5-9A4B-21F075027D10" platform="MtWeb" defaultW="1190" defaultH="2300" measureW="1190" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="5">
+    <control controlID="2BB427B8-A890-44B8-B74A-EBDE5BF5A709" controlTypeID="Image" x="0" y="0" w="1190" h="50" zOrder="0">
+      <URL>35CA1CC1026F6EB5A937F8673FF5E4BC.png</URL>
+    </control>
+    <control controlID="0FACEB9E-D6F4-4DC4-86D4-083DAB8C4EF0" controlTypeID="Image" x="10" y="60" w="1175" h="889" zOrder="1">
+      <URL>934D5D34D0AA0854C23C819FAA67CB11.png</URL>
+    </control>
+    <control controlID="A9E214A3-9F6D-49FC-AA5D-EC496F63BD41" controlTypeID="HotSpot" x="209" y="336" w="113" h="46" zOrder="2">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="0CF1EE9C-5DD6-4EBF-8BC7-33F4CACE0904" linkType="ltPageLink" isApplyIncludePage="False" title="SR+Details+%5BWith+Contact%5D">
+          <area shape="0" alt="" ID="{2C7F9E5C-DD49-41C5-A41D-86F1BB2AE7D5}" coords="(0,0,113,46)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="6C03CE76-2ACE-435B-AC8D-320B9AED7623" controlTypeID="HotSpot" x="209" y="286" w="113" h="40" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="9BF2E5C1-7D3F-4214-870E-5A3BE1636AFB" linkType="ltPageLink" isApplyIncludePage="False" title="SR+Details+%5BWithout+Contact%5D">
+          <area shape="0" alt="" ID="{310C74A3-5564-4EBD-A20F-E66F15A44D18}" coords="(0,0,113,40)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="D77959F5-8C98-4CBF-9A09-591A09BB907C" controlTypeID="HotSpot" x="136" y="60" w="109" h="35" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="0CF1EE9C-5DD6-4EBF-8BC7-33F4CACE0904" linkType="ltPageLink" isApplyIncludePage="False" title="SR+Details+%5BWith+Contact%5D">
+          <area shape="0" alt="" ID="{20E85D34-16AA-4C02-9D91-F0BF02CE82A3}" coords="(0,0,109,35)"/>
+        </link>
+      </links>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,41 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="5CB4B189-906C-481D-A48E-57D64E17B692" platform="MtWeb" defaultW="1190" defaultH="2300" measureW="1190" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="7">
+    <control controlID="9D2B48FC-008A-433B-8423-80BB66DF8FA3" controlTypeID="Image" x="0" y="0" w="1190" h="50" zOrder="0">
+      <URL>35CA1CC1026F6EB5A937F8673FF5E4BC.png</URL>
+    </control>
+    <control controlID="4FE88F70-BEB7-455F-B0B7-D331D6BD898C" controlTypeID="LinkBar" x="172" y="32" w="540" h="17" zOrder="1">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Order+details+page+comments%2C+New+Note+Comments%2C+Page+navigation+link+comments</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="4CC2F00C-D4A4-4082-93C6-A964717A50AF" controlTypeID="HotSpot" x="1601" y="2023" w="172" h="37" zOrder="2"/>
+    <control controlID="7505AA1C-BE39-4B92-850B-2EEE3D9F9D53" controlTypeID="Panel" x="952" y="191" w="202" h="45" zOrder="3">
+      <color>4288256409</color>
+      <opacity>0.800000011920929</opacity>
+      <groupChildrenDescriptors>
+        <control controlID="6E0ECCD4-E943-49DF-8797-FDD014D23B38" controlTypeID="Border" x="0" y="0" w="202" h="45" zOrder="0">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="A5535C4F-EE6C-4812-B6F6-737C6A35261E" controlTypeID="Panel" x="146" y="332" w="175" h="24" zOrder="4">
+      <color>4288256409</color>
+      <opacity>0.400000005960464</opacity>
+      <groupChildrenDescriptors>
+        <control controlID="94468D10-7855-4B65-8A76-47D1DD87710E" controlTypeID="Border" x="0" y="0" w="175" h="24" zOrder="0">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

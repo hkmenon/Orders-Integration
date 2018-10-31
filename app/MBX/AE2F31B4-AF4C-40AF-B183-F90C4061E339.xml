@@ -1,0 +1,37 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="AF23CBE6-2409-4EE1-923E-BDBCE503337B" platform="MtWeb" defaultW="1920" defaultH="2300" measureW="1920" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="5">
+    <control controlID="3706792A-7061-4268-B7CF-4FDF67AEEF25" controlTypeID="Image" x="0" y="0" w="1846" h="1018" zOrder="0">
+      <URL>A0D345476E38821B95C7C0155B2DD019.png</URL>
+    </control>
+    <control controlID="74FE95D1-3A11-4E88-9D26-DB84492A3300" controlTypeID="__group__" x="52" y="216" w="1766" h="771" zOrder="1">
+      <groupChildrenDescriptors>
+        <control controlID="628A2864-797F-43D0-A552-3F754ABB78A8" controlTypeID="VerticalTabBar" x="0" y="0" w="1766" h="771" zOrder="0">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Overview%2C+Profile%2C+Team%2C+Assets%2C+Opportunities%2C+Leads%2C+Relationships%2C+Recommendations%2C+Service+Requests%2C+Notes%2C+Activities%2C+Interaction+History%2C+Orders</text>
+          <textSize>18</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>12</selectedIndex>
+          <tabHeight>35</tabHeight>
+          <tabColor>4294111986</tabColor>
+        </control>
+        <control controlID="4C880F74-D636-4FB8-AF04-E581E0AB2C4F" controlTypeID="Image" x="182" y="28" w="1580" h="659" zOrder="1">
+          <URL>19060860386A0B06A6A74CA31AC12BE1.png</URL>
+        </control>
+        <control controlID="33DB70BB-459B-4BFC-BA2A-EA73326CCEC3" controlTypeID="HotSpot" x="203" y="244" w="80" h="36" zOrder="2">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="5CB4B189-906C-481D-A48E-57D64E17B692" linkType="ltPageLink" isApplyIncludePage="False" title="Order+Details">
+              <area shape="0" alt="" ID="{86FCF7DC-10B2-4EF4-807C-9C1C954DE763}" coords="(0,0,80,36)"/>
+            </link>
+          </links>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

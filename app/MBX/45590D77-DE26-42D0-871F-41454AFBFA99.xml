@@ -1,0 +1,60 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="45590D77-DE26-42D0-871F-41454AFBFA99" platform="MtWeb" defaultW="1920" defaultH="2300" measureW="1920" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="5">
+    <control controlID="DBF662E2-C843-4071-A43D-1E2617DA7322" controlTypeID="Tab" x="10" y="69" w="1826" h="893" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="75AD0427-8CB6-4C36-95DE-2A2F6C5C16CD" linkType="ltPageLink" isApplyIncludePage="False" title="Service+Requests">
+          <area shape="0" alt="" ID="{AA9F6329-D918-4126-BC72-79F6C95FA355}" coords="(0,0,125,18)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+SR000023212534">
+          <area shape="0" alt="" ID="{090AD3D0-6CA2-49E3-8B0F-0DCC6CB2BC10}" coords="(124,0,256,18)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Service+Requests%2C+SR000023212534</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>1</selectedIndex>
+    </control>
+    <control controlID="D769403F-C1E1-4B3A-8EEF-BFF68F3F0FC4" controlTypeID="Image" x="0" y="0" w="1836" h="69" zOrder="1">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{A165449A-325E-400A-AC14-121A1F0D9039}" coords="(0,0,1836,69)"/>
+        </link>
+      </links>
+      <URL>6D66878DCC28A6FBE7D5448D473840EF.png</URL>
+    </control>
+    <control controlID="F930EF3D-7A3E-4C61-B0B9-8B609B5C5E6F" controlTypeID="Tab" x="20" y="98" w="1806" h="854" zOrder="2">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Service+Request+-+Details</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="1531AC2C-D843-4FAB-902D-59C719AD138F" controlTypeID="Image" x="25" y="125" w="1787" h="827" zOrder="3">
+      <URL>63ECB47B6DCC9C71D5B31709EE34FF85.png</URL>
+    </control>
+    <control controlID="A9C12512-7F8A-4F27-A493-5627C4AEE17D" controlTypeID="Tab" x="1488" y="125" w="324" h="827" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Knowledge">
+          <area shape="0" alt="" ID="{85EDD46D-0E6A-410A-939A-ED1ECBAB06B6}" coords="(0,0,85,18)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+SmartText">
+          <area shape="0" alt="" ID="{E0E512D1-208B-4066-ACB2-53FC1EE54A1C}" coords="(84,0,167,18)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Order+Status">
+          <area shape="0" alt="" ID="{184B650B-647A-4796-B62C-CB10F3837395}" coords="(166,0,265,18)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Knowledge%2C+SmartText%2C+Order+Status</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

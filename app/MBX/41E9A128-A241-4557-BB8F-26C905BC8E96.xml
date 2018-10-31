@@ -1,0 +1,44 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="41E9A128-A241-4557-BB8F-26C905BC8E96" platform="MtWeb" defaultW="1920" defaultH="2300" measureW="1920" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="1">
+    <control controlID="D167F60C-040A-4325-8FE8-CCA3E32A91A4" controlTypeID="List" x="607" y="440" w="641" h="252" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Manual+%3A+When+there+is+not+voice+and+chat+integration">
+          <area shape="0" alt="" ID="{A4D2CF00-963B-40C7-9166-954DD9EBB8DA}" coords="(1,1,640,26)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Voice%2C+Chat%3A+Using+voice+and+chat+integration">
+          <area shape="0" alt="" ID="{0F975F93-8D17-4C88-B78E-CB4CE6A525C8}" coords="(1,26,640,51)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Email%2FSocial%3A+For+email+and+channel">
+          <area shape="0" alt="" ID="{9203AE41-D991-4AF3-8FD9-85D7C3A60AB1}" coords="(1,51,640,76)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Email%2FSocial%3A+For+email%2Fsocicial+channel+but+contact+not+found+or+multiple+contacts+found">
+          <area shape="0" alt="" ID="{A46DE9FC-6CD5-4073-83D9-A44B65C1D8ED}" coords="(1,76,640,101)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Edit+Order%3A+Add+a+new+item+to+an+order">
+          <area shape="0" alt="" ID="{E30E0A23-88D9-4F8E-9EEC-3845194F9109}" coords="(1,101,640,126)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Edit+Order%3A+Remove+item+from+an+order">
+          <area shape="0" alt="" ID="{A71F90DA-CDC8-4316-850F-4481EC4A306A}" coords="(1,126,640,151)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Edit+Order%3A+Update+Shipping+Address">
+          <area shape="0" alt="" ID="{8B4F1EF8-78E8-4E2B-BEC0-3D403E7A657D}" coords="(1,151,640,176)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Shop+for+a+customer">
+          <area shape="0" alt="" ID="{7DDCB347-F26F-4EF5-839E-C637A38F8AF6}" coords="(1,176,640,201)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Manual+%3A+When+there+is+not+voice+and+chat+integration%0D%0AVoice%2C+Chat%3A+Using+voice+and+chat+integration%0D%0AEmail%2FSocial%3A+For+email+and+channel%0D%0AEmail%2FSocial%3A+For+email%2Fsocicial+channel+but+contact+not+found+or+multiple+contacts+found%0D%0AEdit+Order%3A+Add+a+new+item+to+an+order%0D%0AEdit+Order%3A+Remove+item+from+an+order%0D%0AEdit+Order%3A+Update+Shipping+Address%0D%0AShop+for+a+customer</text>
+      <textColor>4278190284</textColor>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

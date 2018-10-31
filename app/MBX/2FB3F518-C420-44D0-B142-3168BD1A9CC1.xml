@@ -1,0 +1,20 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="2FB3F518-C420-44D0-B142-3168BD1A9CC1" platform="MtWeb" defaultW="1920" defaultH="2300" measureW="1920" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="2">
+    <control controlID="CEA0BBDD-F950-4087-919B-F77E1E08042D" controlTypeID="Image" x="0" y="0" w="1846" h="987" zOrder="0">
+      <URL>06CD491731A537AD70FDBC92681457DC.png</URL>
+    </control>
+    <control controlID="44BD7FF7-FCAA-47A1-9D1B-602E4C4D1A7B" controlTypeID="HotSpot" x="214" y="293" w="116" h="53" zOrder="1">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="37217E9E-DBF3-4255-92F6-F4443226B96A" linkType="ltPageLink" isApplyIncludePage="False" title="SR+Details">
+          <area shape="0" alt="" ID="{72DED16F-DD1D-4D90-89F9-5E4F7C101934}" coords="(0,0,116,53)"/>
+        </link>
+      </links>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

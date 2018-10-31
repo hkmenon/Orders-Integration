@@ -1,0 +1,50 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="7B2616C0-37F0-4898-A452-3C6B12BFBC63" platform="MtWeb" defaultW="1920" defaultH="2300" measureW="1920" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="5">
+    <control controlID="DBF662E2-C843-4071-A43D-1E2617DA7322" controlTypeID="Tab" x="10" y="69" w="1826" h="893" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="75AD0427-8CB6-4C36-95DE-2A2F6C5C16CD" linkType="ltPageLink" isApplyIncludePage="False" title="Service+Requests">
+          <area shape="0" alt="" ID="{AA9F6329-D918-4126-BC72-79F6C95FA355}" coords="(0,0,125,18)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+SR0000232134">
+          <area shape="0" alt="" ID="{090AD3D0-6CA2-49E3-8B0F-0DCC6CB2BC10}" coords="(124,0,241,18)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Service+Requests%2C+SR0000232134</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>1</selectedIndex>
+    </control>
+    <control controlID="D769403F-C1E1-4B3A-8EEF-BFF68F3F0FC4" controlTypeID="Image" x="0" y="0" w="1836" h="69" zOrder="1">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{A165449A-325E-400A-AC14-121A1F0D9039}" coords="(0,0,1836,69)"/>
+        </link>
+      </links>
+      <URL>6D66878DCC28A6FBE7D5448D473840EF.png</URL>
+    </control>
+    <control controlID="F930EF3D-7A3E-4C61-B0B9-8B609B5C5E6F" controlTypeID="Tab" x="20" y="98" w="1806" h="854" zOrder="2">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Service+Request+-+Details</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="761BFDCB-7B4A-4F94-A909-B9DC5BF07681" controlTypeID="Image" x="24" y="120" w="1768" h="805" zOrder="3">
+      <URL>62516BDAAE9F2B2D48B3A13A61456FD7.png</URL>
+    </control>
+    <control controlID="C15F6052-A550-4546-A5FA-77E85FFF4953" controlTypeID="HotSpot" x="1761" y="519" w="31" h="83" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="SR+Details-RHP++%5BContact+not+found%5D1">
+          <area shape="0" alt="" ID="{E0EECEF2-3CB6-48FE-A861-CE7E85E835C6}" coords="(0,0,31,83)"/>
+        </link>
+      </links>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

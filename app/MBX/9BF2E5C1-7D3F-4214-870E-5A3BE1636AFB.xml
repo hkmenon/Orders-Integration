@@ -1,0 +1,44 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="0CF1EE9C-5DD6-4EBF-8BC7-33F4CACE0904" platform="MtWeb" defaultW="1190" defaultH="2300" measureW="1190" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="5">
+    <control controlID="F4E5D794-E819-4175-B488-03846D38A982" controlTypeID="Tab" x="10" y="67" w="1180" h="875" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="6A87188A-546F-47F5-9A4B-21F075027D10" linkType="ltPageLink" isApplyIncludePage="False" title="Service+Requests">
+          <area shape="0" alt="" ID="{7867EDFB-2613-4B38-9D2C-B89209B47D11}" coords="(0,0,125,18)"/>
+        </link>
+        <link targetPageID="0CF1EE9C-5DD6-4EBF-8BC7-33F4CACE0904" linkType="ltPageLink" isApplyIncludePage="False" title="+SR0000232134">
+          <area shape="0" alt="" ID="{290E7E6E-9508-492E-9A30-1DE8EB265FAD}" coords="(124,0,241,18)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Service+Requests%2C+SR0000232134</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>1</selectedIndex>
+    </control>
+    <control controlID="BC6E7F75-6A39-47D1-8954-D437E0460F34" controlTypeID="Tab" x="18" y="98" w="1162" h="832" zOrder="1">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Srevice+Request+Details</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="61FD2E1B-223F-4435-9563-D603DF7B5EF6" controlTypeID="Image" x="0" y="0" w="1190" h="50" zOrder="2">
+      <URL>35CA1CC1026F6EB5A937F8673FF5E4BC.png</URL>
+    </control>
+    <control controlID="741BCB6B-DF22-4881-A7CA-2AB6887B06DB" controlTypeID="Image" x="22" y="134" w="1135" h="775" zOrder="3">
+      <URL>9C8DC0DF7CE3E03AB18887DA7175B80E.png</URL>
+    </control>
+    <control controlID="2BC23939-7DA5-4457-A8A0-3FD1BD412941" controlTypeID="HotSpot" x="1127" y="565" w="26" h="60" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="18247094-1883-4413-8303-F90260848024" linkType="ltPageLink" isApplyIncludePage="False" title="SR+Details+%5BWithout+Contact%5D-Side+Panel">
+          <area shape="0" alt="" ID="{C6531FE2-8572-4342-B53A-FA49C45948A9}" coords="(0,0,26,60)"/>
+        </link>
+      </links>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

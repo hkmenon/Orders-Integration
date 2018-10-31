@@ -1,0 +1,70 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="6FE5B9FF-273E-464F-BCA0-7B432C152764" platform="MtWeb" defaultW="1190" defaultH="2300" measureW="1190" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="9">
+    <control controlID="6B54F6F4-AFA6-4351-9B44-0511C9B05AA5" controlTypeID="Image" x="494" y="702" w="384" h="420" zOrder="0">
+      <URL>ECC7272BA127BF295B2C659C5A7FD3C3.jpg</URL>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="E9621458-E1AB-437A-B32D-1573BB60A83A" controlTypeID="Image" x="20" y="718" w="384" h="198" zOrder="1">
+      <URL>F95DA67DC5118D8BACCFE3396C7811A1.jpg</URL>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="264D0F17-C1BA-4A1D-AA78-9AF096B186EA" controlTypeID="Image" x="494" y="1222" w="384" h="420" zOrder="2">
+      <URL>436ED6DD09C03BE44C81F9F07925C7AE.jpg</URL>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="A80954E9-1F73-4AE5-AF6C-10A7FF35D1C9" controlTypeID="Image" x="217" y="182" w="384" h="192" zOrder="3">
+      <URL>34A456E1555CACA6DD8208AECB0E8999.jpg</URL>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="D9E026A2-0081-4089-A3F5-A4CC62606534" controlTypeID="Image" x="217" y="456" w="384" h="192" zOrder="4">
+      <URL>11908AAE4EC2326CB67DB7812577F199.jpg</URL>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="54B9CAFD-06AA-4471-8027-4789F6512809" controlTypeID="Arrow" x="150" y="222" w="81" h="235" zOrder="5">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(-72,0)</controlPoint>
+      <startPoint>(70,0)</startPoint>
+      <endPoint>(75,229)</endPoint>
+      <showEndArrow>1</showEndArrow>
+    </control>
+    <control controlID="14F061A3-AC1D-473F-8464-86EE6AE4FC37" controlTypeID="Arrow" x="535" y="500" w="94" h="204" zOrder="6">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(97,4)</controlPoint>
+      <startPoint>(0,0)</startPoint>
+      <endPoint>(88,198)</endPoint>
+      <showEndArrow>1</showEndArrow>
+    </control>
+    <control controlID="3E038AC1-71EE-478E-84BD-65C9FC61242F" controlTypeID="Arrow" x="349" y="534" w="208" h="187" zOrder="7">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(118,134)</controlPoint>
+      <startPoint>(207,0)</startPoint>
+      <endPoint>(6,181)</endPoint>
+      <showEndArrow>1</showEndArrow>
+    </control>
+    <control controlID="C7347ECE-35DE-4159-B8DF-7B03CB3C25A6" controlTypeID="Arrow" x="760" y="1112" w="68" h="112" zOrder="8">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(68,66)</controlPoint>
+      <startPoint>(68,0)</startPoint>
+      <endPoint>(6,106)</endPoint>
+      <showEndArrow>1</showEndArrow>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

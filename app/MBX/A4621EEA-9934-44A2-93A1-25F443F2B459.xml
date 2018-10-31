@@ -1,0 +1,44 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="09C3BD7B-E70D-4CCF-BCBB-06F2E92F42BB" platform="MtWeb" defaultW="1920" defaultH="2300" measureW="1920" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="5">
+    <control controlID="DBF662E2-C843-4071-A43D-1E2617DA7322" controlTypeID="Tab" x="10" y="69" w="1826" h="893" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="549FC61B-A56A-43E6-B43F-4343829F994E" linkType="ltPageLink" isApplyIncludePage="False" title="Service+Requests">
+          <area shape="0" alt="" ID="{AA9F6329-D918-4126-BC72-79F6C95FA355}" coords="(0,0,125,18)"/>
+        </link>
+        <link targetPageID="A4621EEA-9934-44A2-93A1-25F443F2B459" linkType="ltPageLink" isApplyIncludePage="False" title="+SR0000232125">
+          <area shape="0" alt="" ID="{090AD3D0-6CA2-49E3-8B0F-0DCC6CB2BC10}" coords="(124,0,241,18)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Service+Requests%2C+SR0000232125</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>1</selectedIndex>
+    </control>
+    <control controlID="D769403F-C1E1-4B3A-8EEF-BFF68F3F0FC4" controlTypeID="Image" x="0" y="0" w="1836" h="69" zOrder="1">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="A4621EEA-9934-44A2-93A1-25F443F2B459" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{A165449A-325E-400A-AC14-121A1F0D9039}" coords="(0,0,1836,69)"/>
+        </link>
+      </links>
+      <URL>6D66878DCC28A6FBE7D5448D473840EF.png</URL>
+    </control>
+    <control controlID="F930EF3D-7A3E-4C61-B0B9-8B609B5C5E6F" controlTypeID="Tab" x="20" y="98" w="1806" h="854" zOrder="2">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Service+Request+-+Details</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="93FBAEFE-3624-424A-8C3D-54F65520D94E" controlTypeID="Image" x="30" y="125" w="1770" h="817" zOrder="3">
+      <URL>FF0F68A24F048B6683FB2DCA60D5EEE1.png</URL>
+    </control>
+    <control controlID="B0894A5F-1EE6-4707-8118-09D694C260AA" controlTypeID="HotSpot" x="471" y="443" w="153" h="46" zOrder="4"/>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

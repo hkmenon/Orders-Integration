@@ -1,0 +1,520 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="21EEBA53-FB5A-48F9-AE0D-38CB58311E74" platform="MtWeb" defaultW="1920" defaultH="1080" measureW="1920" measureH="1080" mobileScreenScale="0">
+  <controls controlCount="8">
+    <control controlID="DBF662E2-C843-4071-A43D-1E2617DA7322" controlTypeID="Tab" x="0" y="69" w="1836" h="893" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="90EE199E-6787-4F48-AE1C-1596B81C3EE5" linkType="ltPageLink" isApplyIncludePage="False" title="Contacts">
+          <area shape="0" alt="" ID="{AA9F6329-D918-4126-BC72-79F6C95FA355}" coords="(0,0,74,18)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+John+Doe">
+          <area shape="0" alt="" ID="{CC4913D5-D77A-476B-8E53-090278AB3D21}" coords="(73,0,157,18)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Contacts%2C+John+Doe</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>1</selectedIndex>
+    </control>
+    <control controlID="D769403F-C1E1-4B3A-8EEF-BFF68F3F0FC4" controlTypeID="Image" x="0" y="0" w="1836" h="69" zOrder="1">
+      <URL>6D66878DCC28A6FBE7D5448D473840EF.png</URL>
+    </control>
+    <control controlID="58E92DA8-BAEB-4415-9105-709D6E8712D5" controlTypeID="Label" x="10" y="106" w="247" h="32" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Edit+Contact%3A+John+Doe</text>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="628A2864-797F-43D0-A552-3F754ABB78A8" controlTypeID="VerticalTabBar" x="0" y="139" w="1810" h="804" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="09C3BD7B-E70D-4CCF-BCBB-06F2E92F42BB" linkType="ltPageLink" isApplyIncludePage="False" title="Overview">
+          <area shape="0" alt="" ID="{3AF33852-8CC7-4DB1-80E0-1E3FEA114276}" coords="(0,0,175,35)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Profile">
+          <area shape="0" alt="" ID="{17F34354-E8B8-4D51-8201-BA0A5AB60CB2}" coords="(0,34,175,69)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Team">
+          <area shape="0" alt="" ID="{E3C09BAC-A46C-48B0-8BA2-A5DD99767CB6}" coords="(0,68,175,103)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Assets">
+          <area shape="0" alt="" ID="{3F5E945F-75C6-43C6-949A-A7BF47F8E57D}" coords="(0,102,175,137)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Opportunities">
+          <area shape="0" alt="" ID="{E961851D-5E6E-4424-AFF7-772938C01126}" coords="(0,136,175,171)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Leads">
+          <area shape="0" alt="" ID="{D1C6C44C-7B0D-4B9B-8D38-A656C6A70CEC}" coords="(0,170,175,205)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Relationships">
+          <area shape="0" alt="" ID="{E41686A3-BAC1-4FE7-8E9B-84F53B23409F}" coords="(0,204,175,239)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Recommendations">
+          <area shape="0" alt="" ID="{B0EDB8F0-BDD1-44C1-8E9A-0CF55A105634}" coords="(0,238,175,273)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Service+Requests">
+          <area shape="0" alt="" ID="{390D20A5-8BF7-43E6-B4C3-F9E2C72876B6}" coords="(0,272,175,307)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Notes">
+          <area shape="0" alt="" ID="{0A594B3C-5C8B-493A-A8E8-2591224002A6}" coords="(0,306,175,341)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Activities">
+          <area shape="0" alt="" ID="{6ABDC770-A8C4-4B7F-A6A9-BD5191401891}" coords="(0,340,175,375)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Interaction+History">
+          <area shape="0" alt="" ID="{E2CDD4E0-FAE7-41B3-B3A2-42B5424416C6}" coords="(0,374,175,409)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+Orders">
+          <area shape="0" alt="" ID="{3F1CDEC3-155D-4D22-9B0B-139821F4ABF2}" coords="(0,408,175,443)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Overview%2C+Profile%2C+Team%2C+Assets%2C+Opportunities%2C+Leads%2C+Relationships%2C+Recommendations%2C+Service+Requests%2C+Notes%2C+Activities%2C+Interaction+History%2C+Orders</text>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>12</selectedIndex>
+      <tabHeight>35</tabHeight>
+      <tabColor>4294111986</tabColor>
+    </control>
+    <control controlID="FA487B69-1B8A-45A9-AACE-D9B9DC8AA8B1" controlTypeID="ButtonBar" x="1480" y="110" w="340" h="28" zOrder="4">
+      <color>4291611852</color>
+      <borderColor>4288256409</borderColor>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Save%2CSave+%26+Close%2CCancel</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedColor>4294967295</selectedColor>
+    </control>
+    <control controlID="420128EB-9DDB-4B37-B890-AEB135CA4326" controlTypeID="ButtonBar" x="1305" y="110" w="153" h="28" zOrder="5">
+      <color>4291611852</color>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Actions</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedColor>4294967295</selectedColor>
+    </control>
+    <control controlID="FDA36135-1EBF-42BD-9D29-F175F7002B74" controlTypeID="Image" x="1437" y="119" w="12" h="10" zOrder="6">
+      <URL>493BC4B533238F3EDF06B73175E0D4BA.png</URL>
+    </control>
+    <control controlID="1EDA71F5-63CB-4D9B-A60E-DB794B49B3A3" controlTypeID="Table" x="187" y="166" w="1558" h="148" zOrder="7">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Order+%23%09Order+Date%09Status%09Total%09Details%09123214323%0906%2F01%2F2018%09Processing%09$560.12%091+iPhone+XI%2C+$30+per+month+unlimited+call+%26+Text%2C+4GB+per+month+Data%2C+1+Wireless+Charger%093454644%0903%2F12%2F2018%09Completed%09$12.12%091+iPhone+XI%2C+$30+per+month+unlimited+call+%26+Text%2C+4GB+per+month+Data%2C+1+Wireless+Charger%093214343%0912%2F15%2F2017%09Completed%09$235.45%091+iPhone+XI%2C+$30+per+month+unlimited+call+%26+Text%2C+4GB+per+month+Data%2C+1+Wireless+Charger%0934534535%0910%2F16%2F2017%09Copleted%09$2322.10%091+iPhone+XI%2C+$30+per+month+unlimited+call+%26+Text%2C+4GB+per+month+Data%2C+1+Wireless+Charger</text>
+      <textSize>14</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <thickness>1</thickness>
+      <dashMode>SdSolid</dashMode>
+      <tableStyle>tsHiddenRowLine</tableStyle>
+      <fontFamily>Arial</fontFamily>
+      <fontWeight>Regular</fontWeight>
+      <textStyles>[]</textStyles>
+      <cells>
+        <cell rows="0,0" cols="0,0">
+          <backColor>4288256409</backColor>
+          <fontSize>14</fontSize>
+          <textHAlign>HaLeft</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Bold</fontWeight>
+          <textStyles>[fsBold]</textStyles>
+          <text>Order+%23</text>
+          <textHeight>27</textHeight>
+          <font family="Arial" displayName="Arial+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="1,1">
+          <backColor>4288256409</backColor>
+          <fontSize>14</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Bold</fontWeight>
+          <textStyles>[fsBold]</textStyles>
+          <text>Order+Date</text>
+          <textHeight>27</textHeight>
+          <font family="Arial" displayName="Arial+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="2,2">
+          <backColor>4288256409</backColor>
+          <fontSize>14</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Bold</fontWeight>
+          <textStyles>[fsBold]</textStyles>
+          <text>Status</text>
+          <textHeight>27</textHeight>
+          <font family="Arial" displayName="Arial+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="3,3">
+          <backColor>4288256409</backColor>
+          <fontSize>14</fontSize>
+          <textHAlign>HaRight</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Bold</fontWeight>
+          <textStyles>[fsBold]</textStyles>
+          <text>Total</text>
+          <textHeight>27</textHeight>
+          <font family="Arial" displayName="Arial+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="4,4">
+          <backColor>4288256409</backColor>
+          <fontSize>14</fontSize>
+          <textHAlign>HaLeft</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Bold</fontWeight>
+          <textStyles>[fsBold]</textStyles>
+          <text>Details</text>
+          <textHeight>27</textHeight>
+          <font family="Arial" displayName="Arial+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="0,0">
+          <fontSize>12</fontSize>
+          <textHAlign>HaLeft</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190284</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[fsUnderline]</textStyles>
+          <text>123214323</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="1,1">
+          <fontSize>12</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>06%2F01%2F2018</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="2,2">
+          <fontSize>12</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>Processing</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="3,3">
+          <fontSize>12</fontSize>
+          <textHAlign>HaRight</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>$560.12</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="4,4">
+          <fontSize>12</fontSize>
+          <textHAlign>HaLeft</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>1+iPhone+XI%2C+$30+per+month+unlimited+call+%26+Text%2C+4GB+per+month+Data%2C+1+Wireless+Charger</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="2,2" cols="0,0">
+          <fontSize>12</fontSize>
+          <textHAlign>HaLeft</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190284</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[fsUnderline]</textStyles>
+          <text>3454644</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="2,2" cols="1,1">
+          <fontSize>12</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>03%2F12%2F2018</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="2,2" cols="2,2">
+          <fontSize>12</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>Completed</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="2,2" cols="3,3">
+          <fontSize>12</fontSize>
+          <textHAlign>HaRight</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>$12.12</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="2,2" cols="4,4">
+          <fontSize>12</fontSize>
+          <textHAlign>HaLeft</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>1+iPhone+XI%2C+$30+per+month+unlimited+call+%26+Text%2C+4GB+per+month+Data%2C+1+Wireless+Charger</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="3,3" cols="0,0">
+          <fontSize>12</fontSize>
+          <textHAlign>HaLeft</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190284</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[fsUnderline]</textStyles>
+          <text>3214343</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="3,3" cols="1,1">
+          <fontSize>12</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>12%2F15%2F2017</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="3,3" cols="2,2">
+          <fontSize>12</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>Completed</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="3,3" cols="3,3">
+          <fontSize>12</fontSize>
+          <textHAlign>HaRight</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>$235.45</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="3,3" cols="4,4">
+          <fontSize>12</fontSize>
+          <textHAlign>HaLeft</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>1+iPhone+XI%2C+$30+per+month+unlimited+call+%26+Text%2C+4GB+per+month+Data%2C+1+Wireless+Charger</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="4,4" cols="0,0">
+          <fontSize>12</fontSize>
+          <textHAlign>HaLeft</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190284</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[fsUnderline]</textStyles>
+          <text>34534535</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="4,4" cols="1,1">
+          <fontSize>12</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>10%2F16%2F2017</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="4,4" cols="2,2">
+          <fontSize>12</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>Copleted</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="4,4" cols="3,3">
+          <fontSize>12</fontSize>
+          <textHAlign>HaRight</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>$2322.10</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="4,4" cols="4,4">
+          <fontSize>12</fontSize>
+          <textHAlign>HaLeft</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>1+iPhone+XI%2C+$30+per+month+unlimited+call+%26+Text%2C+4GB+per+month+Data%2C+1+Wireless+Charger</text>
+          <textHeight>25</textHeight>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+      </cells>
+      <rows>
+        <row height="26">
+          <backColor>4288256409</backColor>
+          <fontSize>14</fontSize>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[fsBold]</textStyles>
+          <isAutoRowHeight>False</isAutoRowHeight>
+        </row>
+        <row height="30">
+          <backColor>4293848814</backColor>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <isAutoRowHeight>True</isAutoRowHeight>
+        </row>
+        <row height="30">
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <isAutoRowHeight>True</isAutoRowHeight>
+        </row>
+        <row height="30">
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <isAutoRowHeight>True</isAutoRowHeight>
+        </row>
+        <row height="32">
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <isAutoRowHeight>False</isAutoRowHeight>
+        </row>
+      </rows>
+      <cols>
+        <col width="216">
+          <textHAlign>HaLeft</textHAlign>
+          <textColor>4278190284</textColor>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[fsUnderline]</textStyles>
+        </col>
+        <col width="204">
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+        </col>
+        <col width="178">
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+        </col>
+        <col width="225">
+          <textHAlign>HaRight</textHAlign>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+        </col>
+        <col width="735">
+          <textHAlign>HaLeft</textHAlign>
+          <fontFamily>Arial</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+        </col>
+      </cols>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

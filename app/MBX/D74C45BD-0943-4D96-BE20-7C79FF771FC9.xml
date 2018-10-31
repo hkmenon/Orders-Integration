@@ -1,0 +1,86 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="09C3BD7B-E70D-4CCF-BCBB-06F2E92F42BB" platform="MtWeb" defaultW="1190" defaultH="2300" measureW="1190" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="13">
+    <control controlID="6D53EBE0-F2E9-4BAE-9FCD-D1E699C6B789" controlTypeID="Master" x="0" y="0" w="1080" h="50" zOrder="0" masterID="7C74D7E8-E1E8-48BE-8072-8D37D4902467">
+      <groupChildrenDescriptors>
+        <control controlID="9D059A46-E1DE-4B3B-8655-D38AF0D3891C" controlTypeID="Image" x="0" y="0" w="1080" h="50" zOrder="0">
+          <URL>35CA1CC1026F6EB5A937F8673FF5E4BC.png</URL>
+          <textSize>14</textSize>
+        </control>
+      </groupChildrenDescriptors>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="24F6B5F3-BC8A-4472-878B-7A044F3538AB" controlTypeID="Master" x="5" y="60" w="1070" h="978" zOrder="1" masterID="205A05FA-CD2B-4C78-99EC-578B94419423">
+      <groupChildrenDescriptors>
+        <control controlID="7A8C9F3D-814D-4FDB-B219-60482BE2614C" controlTypeID="Tab" x="0" y="0" w="1070" h="978" zOrder="0">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Contacts%2C+John+Doe</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+        </control>
+      </groupChildrenDescriptors>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="AA7A679F-CF0E-4405-9E56-CFC926BC7E62" controlTypeID="Master" x="15" y="90" w="1050" h="933" zOrder="2" masterID="13344844-5F68-4176-8E98-36377059A39B">
+      <groupChildrenDescriptors>
+        <control controlID="9833DDDC-FCB5-4FB7-8DD4-6C5A3698639B" controlTypeID="__group__" x="0" y="0" w="1050" h="933" zOrder="0">
+          <groupChildrenDescriptors>
+            <control controlID="FE22C750-5D4C-4DA0-B50C-981C2C1BBB00" controlTypeID="__group__" x="0" y="0" w="1050" h="933" zOrder="0">
+              <groupChildrenDescriptors>
+                <control controlID="9B655954-9364-48F0-B0C0-17899B9CAC17" controlTypeID="Tab" x="0" y="0" w="1050" h="933" zOrder="0">
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Contact+Details</text>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                </control>
+                <control controlID="76B949C9-2E80-416A-B581-1F753BBA2B02" controlTypeID="ButtonBar" x="756" y="35" w="284" h="22" zOrder="1">
+                  <color>4291611852</color>
+                  <borderColor>4288256409</borderColor>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Save%2CSave+%26+Close%2CCancel</text>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedColor>4294967295</selectedColor>
+                </control>
+                <control controlID="2AC25D7E-2A90-4CEF-8B9F-73F35C0FCDEC" controlTypeID="__group__" x="661" y="35" w="79" h="22" zOrder="2">
+                  <groupChildrenDescriptors>
+                    <control controlID="F5DE5777-D472-4962-ACBC-A8F117C7D5C6" controlTypeID="ButtonBar" x="0" y="0" w="79" h="22" zOrder="0">
+                      <color>4291611852</color>
+                      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                      <text>Actions</text>
+                      <textSize>14</textSize>
+                      <lineSpacing>0</lineSpacing>
+                      <selectedColor>4294967295</selectedColor>
+                    </control>
+                    <control controlID="6EC9A35F-1322-42CC-8721-9BB5CDC66F02" controlTypeID="Image" x="62" y="8" w="8" h="6" zOrder="1">
+                      <URL>493BC4B533238F3EDF06B73175E0D4BA.png</URL>
+                      <textSize>14</textSize>
+                    </control>
+                  </groupChildrenDescriptors>
+                  <textSize>14</textSize>
+                </control>
+              </groupChildrenDescriptors>
+              <textSize>14</textSize>
+            </control>
+            <control controlID="2DB657D7-051A-48B4-909A-E7573E952B46" controlTypeID="Label" x="5" y="40" w="262" h="24" zOrder="1">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Edit+Contact%3A+John+Doe%3A+Overview</text>
+              <textSize>18</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+          <textSize>14</textSize>
+        </control>
+      </groupChildrenDescriptors>
+      <textSize>14</textSize>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

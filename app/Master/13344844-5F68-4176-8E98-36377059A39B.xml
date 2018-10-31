@@ -1,0 +1,54 @@
+<master version="5.3" minAllowVersion="5.3" ID="13344844-5F68-4176-8E98-36377059A39B">
+  <controls>
+    <control controlID="38359844-5B1F-41B7-B75E-CC6B498546DF" controlTypeID="Master" x="13" y="82" w="1050" h="933" zOrder="1" masterID="13344844-5F68-4176-8E98-36377059A39B">
+      <groupChildrenDescriptors>
+        <control controlID="EEF69B4F-1CB9-44D1-B150-0B8620264BE6" controlTypeID="__group__" x="0" y="0" w="1050" h="933" zOrder="0">
+          <groupChildrenDescriptors>
+            <control controlID="D6B48ED5-87D7-4A8F-8ECC-BBE1104FC559" controlTypeID="__group__" x="0" y="0" w="1050" h="933" zOrder="0">
+              <groupChildrenDescriptors>
+                <control controlID="217AE3EB-7D3C-4DBA-85A5-1A9F6B388357" controlTypeID="Tab" x="0" y="0" w="1050" h="933" zOrder="0">
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Contact+Details%2C+Order%3A+o10007</text>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                </control>
+                <control controlID="D60DA73C-BF21-4F56-8487-10AC8EC7A169" controlTypeID="ButtonBar" x="756" y="35" w="284" h="22" zOrder="1">
+                  <color>4291611852</color>
+                  <borderColor>4288256409</borderColor>
+                  <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Save%2CSave+%26+Close%2CCancel</text>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedColor>4294967295</selectedColor>
+                </control>
+                <control controlID="73033E69-C7E2-483F-A91C-5827E18B0878" controlTypeID="__group__" x="661" y="35" w="79" h="22" zOrder="2">
+                  <groupChildrenDescriptors>
+                    <control controlID="53141FDE-C1AF-45A4-99B3-11348788AEA2" controlTypeID="ButtonBar" x="0" y="0" w="79" h="22" zOrder="0">
+                      <color>4291611852</color>
+                      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                      <text>Actions</text>
+                      <textSize>14</textSize>
+                      <lineSpacing>0</lineSpacing>
+                      <selectedColor>4294967295</selectedColor>
+                    </control>
+                    <control controlID="D49263BB-B2BF-48F3-858C-505C02D3C168" controlTypeID="Image" x="62" y="8" w="8" h="6" zOrder="1">
+                      <URL>493BC4B533238F3EDF06B73175E0D4BA.png</URL>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="391C25AC-E7D4-4076-AF5D-E019124438DA" controlTypeID="Label" x="5" y="40" w="262" h="24" zOrder="1">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Edit+Contact%3A+John+Doe%3A+Overview</text>
+              <textSize>18</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</master>

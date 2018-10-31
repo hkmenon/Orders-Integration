@@ -1,0 +1,31 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="90EE199E-6787-4F48-AE1C-1596B81C3EE5" platform="MtWeb" defaultW="1190" defaultH="2300" measureW="1190" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="4">
+    <control controlID="F036C59A-8F27-4E61-98B6-3EB7BC2F5629" controlTypeID="Master" x="5" y="61" w="1070" h="978" zOrder="0" masterID="205A05FA-CD2B-4C78-99EC-578B94419423">
+      <groupChildrenDescriptors>
+        <control controlID="BF6D19F7-A334-485B-9901-766DBD95B454" controlTypeID="Tab" x="0" y="0" w="1070" h="978" zOrder="0">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Contacts%2C+John+Doe</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+        </control>
+      </groupChildrenDescriptors>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="A19B634B-BB1E-4950-B6B4-CA21C77D5C41" controlTypeID="Master" x="0" y="1" w="1080" h="50" zOrder="1" masterID="7C74D7E8-E1E8-48BE-8072-8D37D4902467">
+      <groupChildrenDescriptors>
+        <control controlID="98580CA5-8C21-4FE4-A5D7-0F21DFC1F4BE" controlTypeID="Image" x="0" y="0" w="1080" h="50" zOrder="0">
+          <URL>35CA1CC1026F6EB5A937F8673FF5E4BC.png</URL>
+          <textSize>14</textSize>
+        </control>
+      </groupChildrenDescriptors>
+      <textSize>14</textSize>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

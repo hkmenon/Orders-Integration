@@ -1,0 +1,47 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="75AD0427-8CB6-4C36-95DE-2A2F6C5C16CD" platform="MtWeb" defaultW="1920" defaultH="2300" measureW="1920" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="5">
+    <control controlID="DBF662E2-C843-4071-A43D-1E2617DA7322" controlTypeID="Tab" x="10" y="69" w="1826" h="893" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Service+Requests">
+          <area shape="0" alt="" ID="{AA9F6329-D918-4126-BC72-79F6C95FA355}" coords="(0,0,125,18)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Service+Requests</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="D769403F-C1E1-4B3A-8EEF-BFF68F3F0FC4" controlTypeID="Image" x="0" y="0" w="1836" h="69" zOrder="1">
+      <URL>6D66878DCC28A6FBE7D5448D473840EF.png</URL>
+    </control>
+    <control controlID="F111C0CC-66DC-449F-ABE3-47BC4752125A" controlTypeID="Link" x="1677" y="1021" w="37" h="17" zOrder="2">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="41E9A128-A241-4557-BB8F-26C905BC8E96" linkType="ltPageLink" isApplyIncludePage="False" title="Flows">
+          <area shape="0" alt="" ID="{6BAC4B72-D6A6-41DA-B8A6-3E0C9DBC5C20}" coords="(0,0,37,17)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Home</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="06FB36B3-5E84-47FD-8BED-4E0DF756A8A9" controlTypeID="Image" x="15" y="94" w="1769" h="844" zOrder="3">
+      <URL>351FC925B2067BF7E2E453AE113B08A2.png</URL>
+    </control>
+    <control controlID="EAC4C538-F51A-41B1-9413-20D4118D451C" controlTypeID="HotSpot" x="197" y="266" w="126" h="44" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="SR+Details">
+          <area shape="0" alt="" ID="{542A399A-0985-4A35-BA66-DACFEDC42B06}" coords="(0,0,126,44)"/>
+        </link>
+      </links>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

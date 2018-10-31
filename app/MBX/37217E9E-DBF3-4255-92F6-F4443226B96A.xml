@@ -1,0 +1,20 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="37217E9E-DBF3-4255-92F6-F4443226B96A" platform="MtWeb" defaultW="1920" defaultH="2300" measureW="1920" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="2">
+    <control controlID="2A97C2FE-67B3-48C8-A9AD-99657256D9A0" controlTypeID="Image" x="0" y="0" w="1846" h="987" zOrder="0">
+      <URL>5F0F23D54988E2192243257AC52A94F6.png</URL>
+    </control>
+    <control controlID="F16CF546-495C-4001-B0AA-6E0CFED77968" controlTypeID="HotSpot" x="469" y="483" w="87" h="41" zOrder="1">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="BF8B35FB-FD14-4C5E-94C2-0BFE25387A9B" linkType="ltPageLink" isApplyIncludePage="False" title="Contact+Overview-From+SR">
+          <area shape="0" alt="" ID="{012C601D-1D4E-46AF-B4CD-DE2E68305195}" coords="(0,0,87,41)"/>
+        </link>
+      </links>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

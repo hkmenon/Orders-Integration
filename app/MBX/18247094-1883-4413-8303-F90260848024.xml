@@ -1,0 +1,202 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="18247094-1883-4413-8303-F90260848024" platform="MtWeb" defaultW="1190" defaultH="2300" measureW="1190" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="21">
+    <control controlID="61FD2E1B-223F-4435-9563-D603DF7B5EF6" controlTypeID="Image" x="0" y="0" w="1190" h="50" zOrder="0">
+      <URL>35CA1CC1026F6EB5A937F8673FF5E4BC.png</URL>
+    </control>
+    <control controlID="FC3CEA17-5631-4F06-870C-415FBCA5D8DF" controlTypeID="Image" x="8" y="60" w="1175" h="889" zOrder="1">
+      <URL>37F5C5A13BE3CBEFEBA11205FE2DF5CF.png</URL>
+    </control>
+    <control controlID="2FF8407B-C57D-4274-A4D0-859BAF07E880" controlTypeID="__group__" x="1018" y="157" w="86" h="17" zOrder="2">
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{FDB8FD8F-74BE-4A22-98C0-946CC56100E6}" coords="(0,0,86,17)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="2B9A3DA3-EA01-4E88-81BD-C253F25617CF" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Change Visibility" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="1" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                    <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                    <param name="Value" value="0" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <groupChildrenDescriptors>
+        <control controlID="B5D168AE-739A-46E8-94A1-BC5ED3AABDB8" controlTypeID="Shape" x="0" y="0" w="86" h="17" zOrder="0">
+          <borderColor>4294967295</borderColor>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="102DA427-9649-456B-B187-FD84AF8DEA0C" controlTypeID="Link" x="0" y="0" w="66" h="17" zOrder="1">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Last+Order</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <textStyles>[]</textStyles>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="2B9A3DA3-EA01-4E88-81BD-C253F25617CF" controlTypeID="__group__" x="866" y="183" w="286" h="607" zOrder="3">
+      <isShow>False</isShow>
+      <groupChildrenDescriptors>
+        <control controlID="28BB302B-D5DC-49CA-BA49-9B6C1F8C3E09" controlTypeID="Shape" x="0" y="6" w="284" h="601" zOrder="0">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="1BF74523-C1BD-44A1-9BB4-351A20C8F8AA" controlTypeID="Shape" x="0" y="0" w="283" h="259" zOrder="1">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="3EF47A16-2076-44AC-A6E9-33F97AFF2BE6" controlTypeID="Label" x="37" y="15" w="50" h="17" zOrder="2">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Order+%23%3A</text>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="2B85E4D6-9656-4272-A627-C8F442DC8711" controlTypeID="Label" x="5" y="45" w="82" h="17" zOrder="3">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Order+Status%3A</text>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="31EE383E-995D-434A-9A45-07434F4462BC" controlTypeID="Label" x="23" y="76" w="64" h="17" zOrder="4">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%23+of+Items%3A</text>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="3ED563C4-AF91-4BF6-95C9-DACD424DD4EC" controlTypeID="Label" x="18" y="106" w="69" h="17" zOrder="5">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Item+Detils%3A+</text>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="6F0A4487-A2AC-4416-B3A8-716908F12D14" controlTypeID="Link" x="95" y="11" w="46" h="17" zOrder="6">
+          <isShow>False</isShow>
+          <caption>Edit+Order+Details+Link</caption>
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="565DEACD-08F9-4505-A7EE-F2E53A86DEA8" linkType="ltPageLink" isApplyIncludePage="False" title="Order+Details+%5BEdit+Order%5D">
+              <area shape="0" alt="" ID="{910CC033-CA4C-4438-885C-1F53E5BAEDC9}" coords="(0,0,46,17)"/>
+            </link>
+          </links>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>o10007</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="048ED174-1C93-442B-B4B4-391BCB2C42E2" controlTypeID="Link" x="95" y="11" w="46" h="17" zOrder="7">
+          <caption>Order+Details+Link</caption>
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="2CC42D3B-9816-4295-AE36-5674076879A6" linkType="ltPageLink" isApplyIncludePage="False" title="Order+Details+%5BNT+of+SR-No+Contact%5D">
+              <area shape="0" alt="" ID="{910CC033-CA4C-4438-885C-1F53E5BAEDC9}" coords="(0,0,46,17)"/>
+            </link>
+          </links>
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>o10007</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="30960FED-8648-4EB2-B65A-1DCCECD9476B" controlTypeID="Link" x="196" y="235" w="81" h="17" zOrder="8">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Search+order</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="7488F0DC-CBCF-4110-88DF-4ED8DE46707C" controlTypeID="Label" x="15" y="177" w="72" h="17" zOrder="9">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Order+Total%3A</text>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="C2300DC9-62A9-43FF-9706-7AC962B87587" controlTypeID="Label" x="95" y="45" w="68" h="17" zOrder="10">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Processing</text>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="61DB6AA8-2C56-4987-A5D4-B2B79478CFB1" controlTypeID="Label" x="95" y="76" w="7" h="17" zOrder="11">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>5</text>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="2D9D6CD4-0B1E-46B2-98AE-E5BB3FC19606" controlTypeID="Label" x="95" y="177" w="50" h="17" zOrder="12">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>$560.85</text>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="DE8C75FB-A52D-4695-8AE3-E1B5E0999620" controlTypeID="TextArea" x="95" y="105" w="191" h="65" zOrder="13">
+          <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>1+iPhone+XI%2C+$30+per+month+unlimited+call+%26+Text%2C+4GB+per+month+Data%2C+1+Wireless+Charger</text>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="8AA3B315-6C83-4C89-9AC8-3EADD4678986" controlTypeID="HotSpot" x="858" y="152" w="78" h="31" zOrder="4">
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{74DB27F5-5E98-47BF-880E-2298A1171CAE}" coords="(0,0,78,31)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="2B9A3DA3-EA01-4E88-81BD-C253F25617CF" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Change Visibility" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="1" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                    <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                    <param name="Value" value="1" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

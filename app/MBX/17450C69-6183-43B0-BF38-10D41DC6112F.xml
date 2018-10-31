@@ -1,0 +1,17 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="17450C69-6183-43B0-BF38-10D41DC6112F" platform="MtWeb" defaultW="1920" defaultH="2300" measureW="1920" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="2">
+    <control controlID="82EE00F6-390B-48ED-B65C-86DBF7CBF2BE" controlTypeID="Master" x="24" y="24" w="1080" h="50" zOrder="0" masterID="7C74D7E8-E1E8-48BE-8072-8D37D4902467">
+      <sizeLocked>True</sizeLocked>
+      <groupChildrenDescriptors>
+        <control controlID="5C80CE9A-39B1-406C-8E36-609C3F6F125A" controlTypeID="Image" x="0" y="0" w="1080" h="50" zOrder="0">
+          <URL>35CA1CC1026F6EB5A937F8673FF5E4BC.png</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+  </param>
+</mockup>
